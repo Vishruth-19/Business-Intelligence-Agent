@@ -2,7 +2,7 @@
 An AI-powered business intelligence agent that integrates with monday.com to provide founders and executives with instant, actionable insights from sales pipeline and operational data.
 
 
-Key Features
+# Key Features
 
 Conversational Interface: Natural language querying for complex business data.
 
@@ -15,7 +15,7 @@ Intelligent Analysis: Uses GPT-OSS-120b (via OpenRouter) to generate and execute
 Leadership Summaries: One-click generation of executive-style briefings.
 
 
-Tech Stack
+# Tech Stack
 
 Frontend: Streamlit.
 
